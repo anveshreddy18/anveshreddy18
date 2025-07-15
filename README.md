@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 - 🌱 I work with Golang & Kubernetes
 - 📫 How to reach me:
   - [Linkedin](https://www.linkedin.com/in/anveshreddy18/)
+  - <a href="mailto:anveshreddypinnapareddy802@gmail.com">Mail</a>
 
 [![anveshreddy18's GitHub stats](https://github-readme-stats.vercel.app/api?username=anveshreddy18)](https://github.com/anveshreddy18/github-readme-stats)
