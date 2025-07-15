@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Anvesh
 
 <!--
 **anveshreddy18/anveshreddy18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on [Gardener project](https://github.com/gardener)
+- 🌱 I work with Golang & Kubernetes
+- 📫 How to reach me:
+  - [Linkedin](https://www.linkedin.com/in/anveshreddy18/)
+
+[![anveshreddy18's GitHub stats](https://github-readme-stats.vercel.app/api?username=anveshreddy18)](https://github.com/anveshreddy18/github-readme-stats)
