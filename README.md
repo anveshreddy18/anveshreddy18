@@ -22,5 +22,4 @@ Here are some ideas to get you started:
   - <a href="mailto:anveshreddypinnapareddy802@gmail.com">Mail</a>
 
 [![anveshreddy18's GitHub stats](https://github-readme-stats.vercel.app/api?username=anveshreddy18&show_icons=true&show=reviews)](https://github.com/anveshreddy18/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anveshreddy18&show_icons=true&exclude_repo=python-code,Seam-Carving)](https://github.com/anveshreddy18/github-readme-stats)
