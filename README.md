@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [Gardener project](https://github.com/gardener)
 - 🌱 I work with Golang & Kubernetes
 - 📫 How to reach me:
-  - [Linkedin](https://www.linkedin.com/in/anveshreddy18/)
-  - <a href="mailto:anveshreddypinnapareddy802@gmail.com">Mail</a>
+  - <a href="https://www.linkedin.com/in/anveshreddy18/"><img align="centre" alt="Anvesh's LinkedIn" src="https://img.icons8.com/?size=512&id=118979&format=png" width="60" height="60"/></a>
+  - <a href="mailto:anveshreddypinnapareddy802@gmail.com"><img align="centre" alt="Anvesh's Email" src="https://img.icons8.com/?size=512&id=Ros6Kw5sh4Wx&format=png" width="60" height="60"/></a>
 
 [![anveshreddy18's GitHub stats](https://github-readme-stats.vercel.app/api?username=anveshreddy18&show_icons=true&show=reviews)](https://github.com/anveshreddy18/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anveshreddy18&show_icons=true&exclude_repo=python-code,Seam-Carving)](https://github.com/anveshreddy18/github-readme-stats)
