@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [Gardener project](https://github.com/gardener)
+- 🔭 I’m currently working on [Project Gardener](https://github.com/gardener)
 - 🌱 I work with Golang & Kubernetes
 <!--
 - 📫 How to reach me:
