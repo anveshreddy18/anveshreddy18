@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Project Gardener](https://github.com/gardener)
 - 🏗️ Building Kubernetes operators to manage distributed etcd(KV) clusters.
-- 🌱 I work with Golang
+- 🌱 Me & Golang
 <!--
 - 📫 How to reach me:
   - <a href="https://www.linkedin.com/in/anveshreddy18/"><img align="centre" alt="Anvesh's LinkedIn" src="https://img.icons8.com/?size=512&id=118979&format=png" width="60" height="60"/></a>
