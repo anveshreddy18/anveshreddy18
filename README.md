@@ -15,9 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [Project Gardener](https://github.com/gardener)
-- 🏗️ Building Kubernetes operators to manage distributed etcd(KV) clusters.
-- 🌱 Me & Golang
+🔭 I’m currently working on [Project Gardener](https://github.com/gardener)
+
+🏗️ Building Kubernetes operators to manage distributed etcd(KV) clusters.
+
+Maintainer of:
+- [gardener/etcd-druid](https://github.com/gardener/etcd-druid)
+- [gardener/etcd-backup-restore](https://github.com/gardener/etcd-backup-restore)
+
+🌱 Me & Golang
+
+Interested in Distributed Systems, Databases, and all kinds of Systems Infrastructure.
+
 <!--
 - 📫 How to reach me:
   - <a href="https://www.linkedin.com/in/anveshreddy18/"><img align="centre" alt="Anvesh's LinkedIn" src="https://img.icons8.com/?size=512&id=118979&format=png" width="60" height="60"/></a>
