@@ -27,6 +27,12 @@ Maintainer of:
 
 Interested in Distributed Systems, Databases, and all kinds of Systems Infrastructure.
 
+Hit me up at my socials if you want to have a chat about anything.
+
+Telegram: t.me/GalderOP
+
+Linkedin: https://linkedin.com/in/anveshreddy18
+
 <!--
 - 📫 How to reach me:
   - <a href="https://www.linkedin.com/in/anveshreddy18/"><img align="centre" alt="Anvesh's LinkedIn" src="https://img.icons8.com/?size=512&id=118979&format=png" width="60" height="60"/></a>
